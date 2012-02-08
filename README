@@ -1,0 +1,6 @@
+On new configs remember to move vimrc files, and remember to create symboic links!
+mv .vimrc ~/.vim/vimrc
+mv .gvimrc ~/.vim/vimrc
+
+ln -s ~/.vim/vimrc ~/.vimrc
+ln -s ~/.vim/gvimrc ~/.gvimrc
