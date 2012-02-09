@@ -1,4 +1,6 @@
 set nocompatible
+" To disable a plugin, add it's bundle name to the following list
+let g:pathogen_disabled = ['jslint']
 runtime bundle/pathogen/autoload/pathogen.vim
 call pathogen#infect()
 
