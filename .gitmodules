@@ -124,3 +124,6 @@
 [submodule "bundle/zoomwin"]
 	path = bundle/zoomwin
 	url = git://github.com/vim-scripts/ZoomWin.git
+[submodule "bundle/color-mango"]
+	path = bundle/color-mango
+	url = git://github.com/goatslacker/mango.vim.git
